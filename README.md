@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**Yafira/Yafira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <samp>
+    Hi! I'm Yafira 🌸 ⚡️
+      <br>Recent computer science grad, based in NYC
+        <br>I like to code and design 💾 🎨
+    <br>Currently learning Ruby/Ruby on Rails
+    <br>You can reach me at yfr.mrtnz@gmail.com 📟
+    <br>
+    <br>
+    <img src="https://yafira.github.io/assets/gadgets.png" width="240px" align="center">
+  </samp>
+</p>
