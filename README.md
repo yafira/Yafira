@@ -4,7 +4,7 @@
     Hi! I'm Yafira 🌸 ⚡️
       <br>Creative Software Engineer, based in NYC
         <br>I like to code and design 💾 🎨
-    <br>Currently learning Ruby/Ruby on Rails
+    <br>Currently learning many things
     <br>You can reach me at yfr.mrtnz@gmail.com 📟
     <br>
     <br>
