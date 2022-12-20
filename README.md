@@ -9,6 +9,5 @@
     <br>You can reach me at yfr.mrtnz@gmail.com 📟
     <br>
     <br>
-    <img src="https://yafira.github.io/assets/gadgets.png" width="350px" align="center">
   </samp>
 </p>
