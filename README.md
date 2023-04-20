@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-  current moon phase:
+  today's moon phase:
   <br>
   <br>
     <a href="https://moon-svg.minung.dev" >
