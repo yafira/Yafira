@@ -1,9 +1,14 @@
 <p align="center">
   <br>
   <samp>
+  current moon phase:
+  <br>
+  <br>
     <a href="https://moon-svg.minung.dev" >
   <img src="https://moon-svg.minung.dev/moon.svg?theme=basic" alt="moon.svg" align="center"/>
 </a>
+    <br>
+    <br>
     <br>
     Hi! I'm Yafira <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px">
       <br>Creative Software Engineer, based in NYC 🌸⚡️
