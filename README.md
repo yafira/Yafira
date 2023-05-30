@@ -15,7 +15,7 @@
         <br>I like to code and design 💻 🎨
     <br>Currently expanding my knowledge of JS/React, UX/UI & AI/ML 🌐
     <br>Exploring the intersection between tech and art 🤖
-      <br>Learning about electronics & building electrocute 🌸⚡️
+      <br>Learning about electronics & building <link href="https://electrocute.io">🌸⚡️
     <br>You can reach me at yfr.mrtnz@gmail.com 📟
     <br>
     <br>
