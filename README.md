@@ -12,7 +12,7 @@
     <br>
     Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px">
       <br>Creative Software Engineer, based in NYC 🪐
-        <br>I like to code and <a href="https://www.figma.com/electrocute">design</a> 💻 🎨
+        <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>Currently expanding my knowledge of JS/React, UX/UI & AI/ML 🌐
     <br>Exploring the intersection between tech and art 🤖
       <br>Learning about electronics & building <a href="https://www.electrocute.io">electrocute</a> 🌸⚡️
