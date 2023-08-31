@@ -11,7 +11,7 @@
     <br>
     <br>
     Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px">
-      <br>creative software dev, based in NYC 🪐
+      <br>creative software eng, based in NYC 🪐
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>currently expanding my knowledge of JS/React, UX/UI & AI/ML 🌐
     <br>exploring the intersection between tech and art 🤖
