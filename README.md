@@ -15,7 +15,7 @@
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>currently expanding my knowledge of JS/React, UX/UI & AI/ML 🌐
     <br>exploring the intersection between tech and art 🤖
-      <br>learning about electronics & growing my digital garden <a href="https://electrocute.io/">electrocute</a> 🌸⚡️
+      <br>learning about electronics & growing my digital garden <a href="https://electrocute.io/">electrocute</a> 🌸
     <br>you can reach me at yfr.mrtnz@gmail.com 📟
     <br>
     <br>
