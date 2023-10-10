@@ -10,8 +10,8 @@
     <br>
     <br>
     <br>
-    Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px">
-      <br>creative software engineer, based in NYC 🪐
+    Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px"> (aka electrocute or e1ectr0cute)
+      <br>creative engineer and designer, based in NYC 🪐
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>currently expanding my knowledge of JS/React, UX/UI & AI/ML 🌐
     <br>exploring the intersection between tech and art 🤖
