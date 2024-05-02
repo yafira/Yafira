@@ -10,7 +10,7 @@
     <br>
     <br>
     <br>
-    Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" height="50px" width=auto> (aka electrocute or e1ectr0cute) ⚡️
+    Hi! I'm <a href="https://www.yafira.xyz">Yafira</a> <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="50px" height="50px" > (aka electrocute or e1ectr0cute) ⚡️
       <br>creative developer and designer, based in NYC 🪐
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>currently expanding my knowledge of JS/React, Design (UX/UI, Interaction) & AI/ML 🌐
