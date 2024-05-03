@@ -19,6 +19,6 @@
     <br>you can reach me at yfr.mrtnz@gmail.com 📟
     <br>
     <br>
-    <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="50px" height="50px">
+    <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="80px" height="80px">
   </samp>
 </p>
