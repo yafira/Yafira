@@ -13,7 +13,7 @@
     Hi! I'm <a href="https://www.yafira.xyz">Yafira</a>  (aka electrocute or e1ectr0cute) ⚡️
       <br>creative developer and designer, based in NYC 🪐
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
-    <br>currently expanding my knowledge of JS/React, Design (UX/UI, Interaction) & AI/ML 🌐
+    <br>currently expanding my knowledge of JS/React & Design (UX/UI, Interaction) 🌐
     <br>exploring the intersection between tech and art 🤖
       <br>learning about electronics & growing my digital garden <a href="https://electrocute.io/">electrocute.io</a> 🌸
     <br>you can reach me at yfr.mrtnz@gmail.com 📟
