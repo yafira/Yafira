@@ -10,7 +10,7 @@
     <br>
     <br>
     <br>
-    Hi! I'm <a href="https://yafira.notion.site/Yafira-Martinez-e0967d10056449b18591d94a42926353">Yafira</a>  (aka electrocute) ⚡️
+    Hi! I'm <a href="https://yafira.xyz/">Yafira</a>  (aka electrocute) ⚡️
       <br>design engineer + creative technologist, based in NYC 🪐
         <br>I like to code and <a href="https://www.figma.com/@electrocute">design</a> 💻 🎨
     <br>currently expanding my knowledge of JS/React & Design (UX/UI, Interaction) 🌐
