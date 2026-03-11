@@ -9,6 +9,8 @@
   </a>
   <br>
   <br>
+  ✦  ✦  ✦
+  <br>
   <br>
   hi! I'm <a href="https://yafira.xyz/">yafira</a> (aka electrocute) ⚡️
   <br>design engineer + creative technologist based in nyc 🪐
