@@ -12,7 +12,7 @@
   ✦  ✦  ✦
   <br>
   <br>
-  hi! I'm <a href="https://yafira.xyz/">yafira</a> (aka electrocute) ⚡️
+  hi! i'm <a href="https://yafira.xyz/">yafira</a> (aka electrocute) ⚡️
   <br>design engineer + creative technologist based in nyc 🪐
   <br>i build interactive systems, tools, and experiments with code, electronics, and <a href="https://www.figma.com/@electrocute">design</a> 💻  🎨
   <br>always tinkering + growing my digital garden → <a href="https://electrocute.io/">electrocute.io</a> 🌸
