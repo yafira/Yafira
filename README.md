@@ -16,7 +16,7 @@
   <br>design engineer + creative technologist based in nyc 🪐
   <br>i build interactive systems, tools, and experiments with code, electronics, and <a href="https://www.figma.com/@electrocute">design</a> 💻  🎨
   <br>reaching toward a softer, more poetic computing 🧶 🧵
-  <br>always tinkering + growing my cyber garden → <a href="https://electrocutelab.com">electrocutelab.com</a> 🌸 🌐
+  <br>always tinkering + growing my cyber garden → <a href="https://electrocutelab.com">electrocute lab</a> 🌸 🌐
 
   <br>
   <br>
