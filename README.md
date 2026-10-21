@@ -15,8 +15,8 @@
   hi! i'm <a href="https://yafira.xyz/">yafira</a>, aka electrocute ⚡️
   <br>design engineer + creative technologist in nyc 🪐
   <br>i build web tools, interactive systems, and experiments across code, electronics, and <a href="https://www.figma.com/@electrocute">design</a> 💻
-  <br>lately: soft circuits, e-textiles, and generative text, a practice i call <i>poetronics</i> 🧵
-  <br>reaching toward a softer, more poetic computing 🌸
+  <br>exploring alternative approaches to computing through craft, materiality, and playful interfaces 🧵
+  <br>making room for softer, more poetic ways of interacting with technology 🌸
   <br>always tinkering in my cyber garden → <a href="https://electrocutelab.com">electrocute lab</a> 🌐
   <br>
   <br>
