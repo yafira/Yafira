@@ -14,18 +14,13 @@
   <br>
   hi! i'm <a href="https://yafira.xyz/">yafira</a>, aka electrocute ⚡️
   <br>design engineer + creative technologist in nyc 🪐
+  <br>tinkerer-in-chief @ <a href="https://electrocutelab.com">electrocute lab</a> 🌐
   <br>
   <br>
   exploring alternative approaches to computing
   <br>through craft, open-source tools + experimental interfaces 🧵
   <br>building interactive systems across code, electronics + <a href="https://www.figma.com/@electrocute">design</a> 💻
   <br>making technology more playful, tactile, and poetic 🌸
-  <br>
-  <br>
-  ✦
-  <br>
-  <br>
-  always tinkering in my cyber garden → <a href="https://electrocutelab.com">electrocute lab</a> 🌐
   <br>
   <br>
   <img src="https://media.giphy.com/media/XYyxh0R1XilajMWB8X/giphy.gif" width="80" height="80" alt="">
